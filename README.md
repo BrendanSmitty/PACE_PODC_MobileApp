@@ -9,10 +9,10 @@
 
 
 ## Technologies Used
-  - API
-  - MongoDB
-  - JavaScript
-  - HMTL
-  - CSS
+  - Flutter
+  - Firebase
+  - Provider
+  - Dart
 
 ## Description
+Developed a mobile application for PODC supporting parents of deaf children, featuring role-based authentication for parents and professionals. Implemented community resource sharing, and content moderation tools using Firebase backend services. Designed with accessibility-focused UI including theme switching (light/dark modes) and intuitive navigation using Flutter's Material framework.
